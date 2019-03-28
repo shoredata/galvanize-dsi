@@ -1,0 +1,5 @@
+{
+  "test/test_example.py": true,
+  "test_functions.py::test_larger": true,
+  "test_functions.py::test_solver": true
+}

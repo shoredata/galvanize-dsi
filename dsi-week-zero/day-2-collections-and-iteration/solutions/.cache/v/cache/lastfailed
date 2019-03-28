@@ -1,0 +1,4 @@
+{
+  "test_functions.py::test_negative_lookup": true,
+  "test_functions.py::test_reverse_slice": true
+}

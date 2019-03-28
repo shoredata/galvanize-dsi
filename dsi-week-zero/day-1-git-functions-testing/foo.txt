@@ -1,0 +1,2 @@
+foo.txt for day 1 python
+this is a test
